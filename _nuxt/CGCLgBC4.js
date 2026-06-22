@@ -1,0 +1,1 @@
+import{j as t,u as l,m as r}from"./CBSeQBbb.js";function s(e){const i=`${t().public.siteUrl}${e.path}`;l({title:e.title,titleTemplate:null,link:[{rel:"canonical",href:i}]}),r({description:e.description,ogTitle:e.title,ogDescription:e.description,ogUrl:i,ogType:"website",twitterTitle:e.title,twitterDescription:e.description})}export{s as u};
